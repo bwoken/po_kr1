@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_UAV_FaultTolerance_FILE /Users/bogdan/Documents/UAV_FaultTolerance/build/Desktop_Qt_6_11_2_Debug/UAV_FaultTolerance.app/Contents/MacOS/UAV_FaultTolerance)
+set(__QT_DEPLOY_TARGET_UAV_FaultTolerance_TYPE EXECUTABLE)

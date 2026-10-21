@@ -1,0 +1,5 @@
+C:/Users/sayan/OneDrive/Desktop/DroneSwarm_Qt_structured/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/DroneSwarmQt.dir
+C:/Users/sayan/OneDrive/Desktop/DroneSwarm_Qt_structured/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/edit_cache.dir
+C:/Users/sayan/OneDrive/Desktop/DroneSwarm_Qt_structured/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/sayan/OneDrive/Desktop/DroneSwarm_Qt_structured/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/DroneSwarmQt_autogen_timestamp_deps.dir
+C:/Users/sayan/OneDrive/Desktop/DroneSwarm_Qt_structured/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug/CMakeFiles/DroneSwarmQt_autogen.dir
